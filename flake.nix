@@ -24,7 +24,6 @@
           packages = with pkgs; [
             python314
             python314Packages.websockets
-            python314Packages.asyncio
           ];
         };
       }
